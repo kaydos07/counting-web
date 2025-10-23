@@ -1,0 +1,22 @@
+#myh{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+.buttons{
+    border-radius: 10%;
+    border: none;
+    padding: 10px;
+    background-color: rgb(109, 205, 228);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;    
+}
+.button_div{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.buttons:hover{
+    background-color: rgb(55, 172, 201);
+}
